@@ -1,0 +1,9 @@
+{
+    "judul" : "string",
+    "interger" : 1,
+    "array" : [1,2,3],
+    "json" : {
+        "satu" : "satu",
+        "dua" : "dua"
+    }
+}
